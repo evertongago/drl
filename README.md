@@ -11,7 +11,7 @@ To get started make sure you meet the following requirements:
 
 ## 🚀 Clone and Run:
 
-To clone `DRL` and run:
+To clone `DRL`:
 
 ```
 git clone git@github.com:evertongago/drl.git
